@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ch10 Animation Helmi</string>
+    <string name="startButton">Start Frame Animation</string>
+    <string name="stopButton">Start Tween Animation</string>
+    <string name="imgDescription">Northern Light Image</string>
+
+</resources>
